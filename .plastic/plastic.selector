@@ -1,0 +1,4 @@
+repository "Discs@Jakub_Szymanik_Studio@cloud"
+  path "/"
+    br "/main"
+    co "/main"

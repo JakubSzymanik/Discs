@@ -1,0 +1,1 @@
+﻿public enum InputType { SwipeLeft, SwipeRight, Tap, Escape, SuperSwipeLeft, SuperSwipeRight, SwipeUp }
